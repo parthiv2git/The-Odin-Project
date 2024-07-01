@@ -1,2 +1,3 @@
 # The-Odin-Project
-this is only for the odin project
+
+This is only for the odin project
