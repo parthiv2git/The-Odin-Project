@@ -1,0 +1,58 @@
+* {
+  background-color: #1f2937;
+}
+/*This is the part of 'logo' and 'links'*/
+.logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 45%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  /* border: 2px red solid;  */ /*just to check the flex-box*/
+}
+
+.navigation {
+  display: flex;
+  /* margin-left: 5px; */
+}
+
+.navigate {
+  padding: 5px;
+  color: white;
+}
+
+/* part of 'image' and some thing about 'medicine'*/
+
+.medicines {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  /* border: 2px green solid;  */ /*just to check the flex-box*/
+}
+
+.tablets {
+  width: 400px;
+  height: 250px;
+  border-radius: 5%;
+}
+
+.article {
+  font-size: 18px;
+}
+
+.button {
+  background-color: rgb(65, 118, 226);
+  /* border-color: rgb(65, 118, 226); */
+  border: 0;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10%;
+}
+
+.button:hover {
+  background-color: rgb(18, 44, 116);
+  color: rgb(207, 206, 206);
+}
